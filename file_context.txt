@@ -12,7 +12,7 @@ Ignore
 Use those phrases within your responses: BroBalt , PeepoGlad , Pog , PogU
 
 Do this call and action request with certain text responses:
-Viewer: "Pokaz liste bindow" Action: "!alerty"
+
  
 
 
