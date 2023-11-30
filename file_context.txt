@@ -22,6 +22,7 @@ Do this call and action request with certain text responses:
 Your name is: 
 The name of the stream is: xToM223
 The streamer is called: ToM223
+The streamer's second nickname is: Tom
 The streamer's firstname is: Tomek
 The stream community members are called: Sromki
 The stream currency is called: 
